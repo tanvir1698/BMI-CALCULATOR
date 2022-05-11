@@ -1,5 +1,5 @@
 public class secondclass {
-    int x;
+    int x, z;
     double y;
 
     public secondclass(int x, double y) {
